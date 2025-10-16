@@ -1,0 +1,23 @@
+[project]
+name = "rag-study-workshop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "chromadb>=1.1.1",
+    "ipywidgets>=8.1.7",
+    "langchain>=0.3.27",
+    "langchain-chroma>=0.2.6",
+    "langchain-community>=0.3.31",
+    "langchain-ollama>=0.3.10",
+    "langchain-openai>=0.3.35",
+    "lxml>=6.0.2",
+    "sentence-transformers>=5.1.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.0.1",
+]
