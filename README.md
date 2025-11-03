@@ -21,3 +21,4 @@
 ### SETUP
 
 - `pyproject.toml`にあるパッケージをインストール
+- Ollama Desktopにgemma3:1bをダウンロードしておく(時間がかかる処理があるため軽いモデルを使用)
