@@ -1,7 +1,23 @@
-# RAG Workshop 1
+# RAG Workshop
 
-## SETUP
+## Workshop 1
+
+### THEME
+
+- Question Transoformationの研究
+
+### SETUP
 
 - `pyproject.toml`にあるパッケージをインストール
 - Ollama Desktopのインストール
 - gemma3:4bをダウンロードしておく（4GBくらいあるのは余裕をもって準備しておく）
+
+## Workshop 2
+
+### THEME
+
+- Embedding Strategy の研究
+
+### SETUP
+
+- `pyproject.toml`にあるパッケージをインストール
